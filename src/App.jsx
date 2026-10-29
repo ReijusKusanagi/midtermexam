@@ -33,7 +33,7 @@ function App() {
   const num7Handler = (e) => { e.preventDefault(); setDisp("Being Coachable"); };
   const num8Handler = (e) => { e.preventDefault(); setDisp("Doing A Little Extra"); };
   const num9Handler = (e) => { e.preventDefault(); setDisp("Being Prepared"); };
-  const num0Handler = (e) => { e.preventDefault(); setDisp("Havinggit add . --verbose A Strong Work Ethic"); };
+  const num0Handler = (e) => { e.preventDefault(); setDisp("Having A Strong Work Ethic"); };
 
   const nameplateButtonClickHandler = (e) => {
     e.preventDefault();
